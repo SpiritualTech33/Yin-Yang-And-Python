@@ -8,6 +8,12 @@ tags: ["philosophy", "programming", "spirituality", "python", "writing"]
 # Yin Yang And Python
 ## *By Cosmos De La Cruz*
 
+<div align="center">
+  <img src="images/yin_yang_and_python_cover.PNG" width="600" alt="Yin Yang And Python - Cover">
+</div>
+
+<br>
+
 ---
 
 > *"Programs must be written for people to read,*
