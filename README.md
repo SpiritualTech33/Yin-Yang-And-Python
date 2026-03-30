@@ -1,113 +1,110 @@
-# ☯️ The Ying Yang of Python
+---
+title: "Yin Yang And Python — README"
+subtitle: "The book that nobody wrote. Until now."
+date: "2026-03-30"
+tags: ["philosophy", "programming", "spirituality", "python", "writing"]
+---
 
-> *A book about programming.*  
-> *A mirror about how we think.*
+# Yin Yang And Python
+## *By Cosmos De La Cruz*
 
 ---
 
-## 🌱 What is this project?
+> *"Programs must be written for people to read,*
+> *and only incidentally for machines to execute."*
+> — Harold Abelson
 
-**The Ying Yang of Python** is not a traditional manual.  
-It is not a list of commands.  
-It is not a race to “learn fast”.
-
-It is a **book–guide** for those who feel that programming is not just writing code,  
-but **organizing reality with awareness**.
-
-Here, Python is not taught as a tool,  
-but as a **language of balance**.
+> *"The Tao that can be named is not the eternal Tao."*
+> — Lao Tzu
 
 ---
 
-## ☯️ The central axis: non-duality
+## The Book Nobody Wrote
 
-This book explores Python through the logic of the **Ying–Yang**:
+Every Python tutorial will teach you what to type and how to type it.
 
-- mutable ↔ immutable  
-- order ↔ belonging  
-- flow ↔ structure  
-- identity ↔ meaning  
+Nobody — not one of the thousands of programming books published in the last thirty years — has stopped to ask the question that actually matters:
 
-One does not choose a side.  
-One understands the **dance between both**.
+**Why does any of this exist?**
 
-Programming well is not choosing Ying or Yang,  
-but **knowing when each one is necessary**.
+Why does a variable exist? Why does a loop exist? Why does a function exist? What does it *mean* to name something in code? What does it mean to make a choice, to repeat an action, to define a pattern that can be invoked? What is the relationship between the act of programming and the act of thinking? Between writing code and writing a life?
 
----
+This book is the answer to those questions.
 
-## 🧠 Who is this book for?
+*Yin Yang And Python* is not a syntax guide. It is not a beginner's tutorial. It is not another book that will teach you to build a todo app in chapter three and forget about it by chapter eight.
 
-This project is for you if:
+It is a philosophical investigation of programming — written by someone who came to code not through a computer science degree, not through a corporate training program, but through a night meditation at twenty-four years old, when a single word inscribed itself in the silence: *Programming.*
 
-- you are starting with Python and **don’t want to memorize without understanding**
-- you code, but feel something is missing from traditional tutorials
-- you are interested in philosophy, mental clarity, and deep thinking
-- you believe that science and spirituality **are not enemies**
-- you enjoy asking **“why?”** before **“how?”**
-
-You don’t need advanced previous experience.  
-You do need **honest curiosity**.
+This book is what happened next.
 
 ---
 
-## 📘 What will you find here?
+## What This Book Is
 
-- Fundamental Python concepts explained from their **reason for being**
-- Clear and sober examples, used only when they add understanding
-- Natural connections with:
-  - Taoism
-  - Zen
-  - Hermeticism
-  - Stoicism
-  - Socratic maieutics
-- A journey that prioritizes:
-  - understanding
-  - discernment
-  - mental elegance
+At its core, *Yin Yang And Python* makes one radical claim:
 
-This is not a book to rush through.  
-It is a book to **settle into**.
+**Programming is a spiritual practice.**
+
+Not as a metaphor. Not as inspiration-poster wisdom. As a literal, precise, defensible truth.
+
+Every principle that the contemplative traditions — Taoism, Zen Buddhism, Stoicism, Hermeticism, Yoga — have identified as essential to awakening is also essential to excellent programming. Presence. Clarity. Single-pointed intention. Equanimity in the face of failure. Non-attachment to cleverness. The discipline that becomes freedom.
+
+This is not a coincidence. It is correspondence. *As above, so below.*
+
+The Python logo — two serpents intertwined, one blue, one gold, dancing in a circle — is not arbitrary. It is a map. The blue serpent is logic, analysis, structure, the Yang of the mind. The gold serpent is intuition, synthesis, creativity, the Yin. Most programmers use only one. The masters let both dance. This book teaches you to dance.
 
 ---
 
-## 🧭 Learning philosophy
+## Who This Book Is For
 
-> **Contemplation → Deliberate practice → Mastery**
+This book is for anyone who has ever felt that the programming tutorials were teaching them the *what* and the *how* and skipping the only question that actually matters.
 
-First you understand.  
-Then you practice with intention.  
-Over time, the code becomes simple…  
-because your mind is.
+It is for the developer who codes all day and meditates in the morning and has always felt, quietly, that these two activities were secretly the same activity.
 
----
+It is for the philosophy student who suspects that the history of ideas — from Aristotle to Wittgenstein, from Lao Tzu to Carl Jung — has something to say about how software should be written.
 
-## 🗡️ An honest warning
+It is for the beginner who is not yet a programmer but knows, with the bone-deep certainty that only comes from something true, that they are supposed to be one.
 
-If you are looking for:
-- shortcuts
-- quick recipes
-- copy and paste without thinking
+It is for the experienced engineer who has written a hundred thousand lines of code and has a nagging feeling that they have been doing it efficiently but not deeply.
 
-This book **is not for you**.
-
-But if you are looking for:
-- clarity
-- discernment
-- a solid foundation to grow for years
-
-Then you are in the right place.
+It is not for the reader who wants quick answers. It is for the reader who understands that the slow answer — the one that goes all the way down to the roots — is the only answer worth having.
 
 ---
 
-## 🌌 Closing
+## A Note on What This Book Is Not
 
-Python is a language.  
-But it is also a reflection.
+There is no code in these pages.
 
-> *How you code is how you think.*  
-> *And how you think is how you inhabit the world.*
+Not because code is unimportant. The companion volumes — *The Yin Yang of Python* (English) and *El Yin Yang de Python* (Spanish) — are full of it, written with the same philosophical care that animates these chapters.
 
-Welcome to **The Ying Yang of Python** ☯️  
-We don’t promise easy answers.  
-We promise **good questions**.
+But philosophy and code are not the same activity, and they do not belong in the same book. Philosophy asks *why*. Code asks *how*. This book answers the first question, fully and without apology, so that the second question can be answered with intelligence rather than with mechanical habit.
+
+Read this first. Then write the code.
+
+Or read it alongside. Or after. There is no wrong order. But read it with a pen, because you will want to write in the margins. The ideas here are not meant to be consumed — they are meant to be *continued*.
+
+---
+
+## The Thesis, One Last Time
+
+The serpents are dancing.
+
+They were always dancing. The separation between logic and soul, between science and spirit, between the programmer and the contemplative — this separation is not a discovery. It is a habit. A forgetting. A line drawn in the sand that nobody had the authority to draw.
+
+This book is an act of remembering.
+
+Python is a philosophy of balance encoded in syntax. And if you learn to read it that way — not as a set of commands to be memorized but as a set of principles to be understood — you will find that you are not just learning to program.
+
+You are learning to think.
+
+And thinking, done well, is the beginning of everything.
+
+---
+
+*Yin Yang And Python*
+*By Cosmos De La Cruz*
+*© 2026 — All rights reserved*
+
+*"I think every human being is an individual manifestation of the cosmos."*
+
+---
